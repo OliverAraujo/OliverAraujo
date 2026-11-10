@@ -1,40 +1,44 @@
-<h1 align="center">Olá, eu sou o Oliver Araújo 👋</h1>
+### Hi there 👋, I'm Oliver Araújo!
+
+Welcome to my GitHub profile! I'm a developer passionate about building digital solutions, web development, and backend automation. 
+
+---
+
+### 🚀 About Me
+- 🌱 I’m currently expanding my skills in **Python**, backend automation, and data pipelines.
+- 💻 Experienced in building web solutions, landing pages, and digital systems using **WordPress** and **Elementor**.
+- 🔧 Focused on writing clean code, problem-solving, and optimizing processes.
+- 🎵 When I'm not coding, you can find me playing the piano/drums or following football.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### Languages & Backend:
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Web Development:
+- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Environment & Tools:
+- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  🔭 Atualmente atuando como Desenvolvedor Back-end<br>
-  🌱 Focado em aprimorar conhecimentos em <strong>Python</strong>, automação de processos e arquitetura de dados<br>
-  pronome: ele/dele
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+### 📬 Connect with Me
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,vscode,linux" alt="Principais Ferramentas" />
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OliverAraujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAraujo&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-</div>
-
----
-
-## 📫 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/oliver-araújo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:oliverandre1994@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/euoliveraraujo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+- 💼 **Portfolio / Website:** [Seu Site / Portfólio](https://seu-portfolio.com)
+- 🔗 **LinkedIn:** [Seu Perfil no LinkedIn](https://linkedin.com/in/seu-usuario)

@@ -1,7 +1,7 @@
 ### Olá, eu sou o Oliver Araúo 👋
 
-- 🔭 Atualmente estou atuando como Front-end
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente estou atuando como Back-end
+- 🌱 Estudando Python
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverAraujo&show_icons=true&theme=dark)
@@ -10,11 +10,11 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Oliver-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Oliver-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />       
   <img align="center" alt="Oliver-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Oliver-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oliver-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Oliver-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  
+  
 </div>
   
   ##

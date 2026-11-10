@@ -1,17 +1,18 @@
 <h1 align="center">Hi, I'm Oliver Araújo 👋</h1>
 
 <p align="center">
-  🔭 Currently working as a Back-end Developer<br>
-  🌱 Focused on leveling up my skills in <strong>Python</strong>, process automation, and data pipelines<br>
-  pronouns: he/him
+  <strong>Back-end Developer</strong> & Python Enthusiast<br>
+  Focused on process automation, data pipelines, and scalable back-end logic.<br>
+  <em>pronouns: he/him</em>
 </p>
 
 ---
 
-## 🚀 About Me
+## 💻 About Me
 
-- 💻 Experienced in creating digital solutions, landing pages, and web systems using **WordPress** and **Elementor**.
-- 🔧 Focused on clean code, problem-solving, and workflow optimization.
+- 🔭 Currently exploring advanced backend architectures, scripting automations, and data flow.
+- ⚙️ Experienced in building web solutions, landing pages, and systems using modern tools.
+- 🐍 Primary stack centers around **Python**, clean code practices, and problem-solving.
 - 🎵 When I'm not coding, you can find me playing piano/drums or following football games.
 
 ---
@@ -21,12 +22,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
 </p>
 
 ---
@@ -46,7 +45,7 @@
   <a href="https://linkedin.com/in/SEU-USER-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="url?id=40">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://instagram.com/SEU-USER-INSTAGRAM" target="_blank">

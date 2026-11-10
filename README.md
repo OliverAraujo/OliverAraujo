@@ -1,28 +1,40 @@
-### Olá, eu sou o Oliver Araúo 👋
+<h1 align="center">Olá, eu sou o Oliver Araújo 👋</h1>
 
-- 🔭 Atualmente estou atuando como Back-end
-- 🌱 Estudando Python
-- 😄 Pronouns: ele/dele
+<p align="center">
+  🔭 Atualmente atuando como Desenvolvedor Back-end<br>
+  🌱 Focado em aprimorar conhecimentos em <strong>Python</strong>, automação de processos e arquitetura de dados<br>
+  pronome: ele/dele
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OliverAraujo&show_icons=true&theme=dark)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAraujo&layout=compact&langs_count=16&theme=dark)
+---
 
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Oliver-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Oliver-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />       
-  <img align="center" alt="Oliver-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Oliver-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Oliver-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,git,github,vscode,linux" alt="Principais Ferramentas" />
 </div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com/euoliveraraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:oliverandre1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/oliver-araújo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=OliverAraujo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverAraujo&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
+
+---
+
+## 📫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/oliver-araújo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:oliverandre1994@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/euoliveraraujo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
